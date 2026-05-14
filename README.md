@@ -4,7 +4,7 @@
 
 Este repositório contém um código Python que simula um sistema de **Internet das Coisas (IoT)** coletando dados de sensores e enviando para processamento na **nuvem**.
 
-**O código contém erros.** Seu trabalho é identificar e corrigir todos os problemas para que o sistema funcione corretamente.
+**O código contém erros.** Seu trabalho é **identificar**, **corrigir** todos os problemas para que o sistema funcione corretamente e **explicar** cada erro encontrado no código
 
 ## Como executar
 
