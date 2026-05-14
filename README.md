@@ -12,7 +12,8 @@ Este repositório contém um código Python que simula um sistema de **Internet 
 python main.py
 ```
 ## Onde eu posso executar?
-Online Python Compiler (https://www.onlinegdb.com/online_python_compiler#)
+
+ - Online Python Compiler (https://www.onlinegdb.com/online_python_compiler#)
 
 ## O que fazer
 
